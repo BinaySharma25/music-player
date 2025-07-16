@@ -5,13 +5,21 @@ I’ve built a fully functional Web Music Player that allows users to enjoy thei
 HTML | CSS | JavaScript
 
  Key Features:
+ 
 • Play / Pause / Previous / Next controls.
+
 • Dynamic song title, artist info & album art.
+
 • Real-time progress bar with seek functionality.
+
 • Auto-play next track on song end.
+
 • Responsive design for all screen sizes.
+
 • Light and Dark Mode toggle.
+
 • Searchable Playlist.
+
 • Custom Volume & Progress Controls.
 
 🔗 Live Demo: [https://web-music-playerbinay.netlify.app/]
